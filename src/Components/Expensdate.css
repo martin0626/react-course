@@ -1,0 +1,26 @@
+.date-field {
+  background-color: black;
+  color: aliceblue;
+  padding: 1.2rem 2.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  align-items: center;
+  border: 3px #fff solid;
+}
+
+.date-year {
+  font-size: 16px;
+}
+
+.date-month {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.date-day {
+  font-size: 32px;
+  font-weight: bold;
+}
