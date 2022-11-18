@@ -23,4 +23,9 @@
 
 .new-expense__actions {
   text-align: right;
+  padding: 1.2rem 0;
+}
+
+.open-expense-form {
+  margin: 43% 0;
 }
